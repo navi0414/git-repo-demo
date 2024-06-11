@@ -33,4 +33,5 @@ GIT LOG > displays all the commits that were made
 GIT LOG --oneline > condensed version of git log
 
 GIT REMOTE ADD ORIGIN <link to the repo in github>
-	>transfer your local repo to the remote repo
+	>connecting your local repo to the remote repo
+GIT CLONE > clone the repo to your local machine
