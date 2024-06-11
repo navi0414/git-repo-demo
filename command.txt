@@ -1,0 +1,27 @@
+PWD -- print working directory
+       >displays your current directory location,
+
+MKDIR -- make directory
+ 	 > creates new folder in the current directory
+
+CD -- change directory
+	>allows you to move throughout your computer
+LS > displays the list of contents of the current directory
+
+TOUCH > creates a file in the current directory
+
+RM > deleting or removing a file
+
+-----------------------
+
+REPOSITORY -- like a folder/container that stores file/folder related to a project. It keeps track of the
+change made over time.
+	> Local Repository -- version that is stored on your own computer
+	> Remote Repository -- version that is stored on a server or a cloud-based platform
+GIT INIT > initialize a folder
+GIT CONFIG --global user.name "username"
+GIT CONFIG --global user.name "username"
+	> sets the user's name and email
+GIT STATUS > displays the current status of your file/folder
+GIT ADD . > adds all modified files in your current directory to the staging area
+GIT ADD "filename" > adds a specific file to the staging area
